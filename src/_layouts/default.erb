@@ -1,15 +1,16 @@
 <!doctype html>
 <html lang="<%= site.locale %>">
   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <%= render "head", metadata: site.metadata, title: data.title %>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   </head>
-  <body class="<%= data.layout %> <%= data.page_class %>">
-    <%= render Shared::Navbar.new(metadata: site.metadata, resource: resource) %>
-
-    <main>
+  <body>
+    <div class="container">
       <%= yield %>
-    </main>
-
-    <%= render "footer", metadata: site.metadata %>
+    </div>
   </body>
 </html>
