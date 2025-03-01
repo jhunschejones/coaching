@@ -1,23 +1,19 @@
 ---
 layout: default
-title: Sign up
 ---
 
-<h1>One-on-One Coaching with Josh</h1>
+<h1>Let’s Work Together on What Matters to You</h1>
 <p>
-    🇯🇵 When I was learning Japanese, I spent a lot of time figuring out what actually worked. I tried different study methods,
-    struggled with speaking confidently, and learned through trial and error. Looking back, I would have loved to have
-    someone to talk things through with—a way to make the process feel clearer and more structured.
+    🚀 I’m working on a few different coaching projects, all aimed at making learning and personal growth feel approachable.
+    If you’re looking for guidance, support, or just a fresh perspective, I’d love to be part of your journey.
 </p>
 <p>
-    🌱 If you're feeling stuck, or just want some guidance on where to focus next, I can help. Whether it's <strong>building a study habit</strong>,
-    <strong>practicing real conversations</strong>, or <strong>figuring out the next step</strong> in your journey, we can work through it together in a way that
-    makes sense for you.
+    💡 If you don’t see exactly what you’re looking for, feel free to reach out. I’m always open to collaborating and
+    figuring out a way to help.
 </p>
 <p>
-    💡 My goal is to make learning feel approachable, sustainable, and enjoyable—not overwhelming. If that sounds like
-    something you'd find helpful, let's chat.
+    📩 You can contact me anytime at <strong>coaching@josharound.com</strong>.
 </p>
 <div class="button-container">
-    <button onclick="window.location.href='https://your-gumroad-link-here'">✨ Book a Session ✨</button>
+    <button onclick="window.location.href='/japanese'">View Japanese Coaching 🇯🇵</button>
 </div>
