@@ -15,5 +15,5 @@ layout: default
     📩 You can contact me anytime at <strong>coaching@josharound.com</strong>.
 </p>
 <div class="button-container">
-    <button onclick="window.location.href='/japanese'">View Japanese Coaching 🇯🇵</button>
+    <a class="button" href="/japanese">View Japanese Coaching 🇯🇵</a>
 </div>

@@ -19,5 +19,5 @@ title: Japanese
     something you'd find helpful, let's chat.
 </p>
 <div class="button-container">
-    <button onclick="window.location.href='https://your-gumroad-link-here'">✨ Book a Session ✨</button>
+    <a class="button" href="https://buymeacoffee.com/josh_around/e/380994">✨ Book a Session ✨</a>
 </div>

@@ -44,7 +44,7 @@ strong {
   justify-content: center;
   margin-top: 20px;
 }
-button {
+.button {
   background: #3b82f6;
   color: white;
   padding: 14px 28px;
@@ -58,8 +58,9 @@ button {
   display: inline-block;
   min-width: 200px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
 }
-button:hover {
+.button:hover {
   background: #2563eb;
   transform: translateY(-2px);
 }
